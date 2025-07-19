@@ -1,0 +1,27 @@
+.homebg {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ 
+}
+.page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.para {
+  font-size: 15px;
+  color: black;
+}
+.button {
+  height: 10px;
+  width: 15px;
+  background-color: blue;
+  color: white;
+}
+.h1 {
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+}

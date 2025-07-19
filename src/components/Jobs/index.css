@@ -1,0 +1,28 @@
+.bar1 {
+  display: flex;
+  width: 40vh;
+  padding: 10px;
+  margin: 10px;
+  justify-content: space-between;
+  flex-direction: column;
+}
+bar {
+  display: flex;
+  flex-wrap: wrap;
+}
+.h1 {
+  font-size: 15px;
+  color: black;
+}
+.paraf {
+  color: black;
+  font-size: 12px;
+}
+.nojob {
+  height: 200px;
+  width: 200px;
+}
+.no {
+  display: flex;
+  justify-content: center;
+}

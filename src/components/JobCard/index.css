@@ -1,0 +1,25 @@
+.card {
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 400px;
+  padding: 20px;
+  margin: 20px;
+}
+.card1 {
+  display: flex;
+  justify-content: space-between;
+}
+.card2 {
+  display: flex;
+  justify-content: space-around;
+}
+.para1 {
+  font-size: 15px;
+  color: black;
+}
+img1 {
+  height: 20px;
+  width: 20px;
+}
